@@ -1,5 +1,5 @@
 ## DQL：查询表中的记录
-	*select* from 表名；
+	 select* from 表名；
 	1.语法
 		select 
 			字段列表
